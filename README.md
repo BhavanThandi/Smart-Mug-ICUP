@@ -27,8 +27,7 @@ https://github.com/user-attachments/assets/https://youtu.be/zo6oe5yAwa8
 
 ## CAD Design
 
-| Exterior | Isometric View | Cross Section | Top View
-|----------|----------|---------------|
+| Exterior | Isometric View | Cross Section | Top View | 
 | ![Exterior](ICUP_2.png) | ![Isometric](ICUP_3.png) | ![Cross Section](ICUP_1.png) | ![Top](ICUP_4.png) |
 
 The enclosure was modeled in Fusion 360 and designed to house:
