@@ -27,8 +27,9 @@ https://github.com/user-attachments/assets/https://youtu.be/zo6oe5yAwa8
 
 ## CAD Design
 
-| Exterior | Isometric View | Cross Section | Top View | 
-| ![Exterior](ICUP_2.png) | ![Isometric](ICUP_3.png) | ![Cross Section](ICUP_1.png) | ![Top](ICUP_4.png) |
+| Top View | Isometric View | Cross Section |
+|----------|----------|---------------|
+| ![Exterior](ICUP_2.png) | ![Top](ICUP_3.png) | ![Cross Section](ICUP_1.png) |
 
 The enclosure was modeled in Fusion 360 and designed to house:
 - Arduino Pro Mini + wiring in a dedicated internal chamber
